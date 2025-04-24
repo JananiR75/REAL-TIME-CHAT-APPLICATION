@@ -30,4 +30,6 @@ The Real-Time Chat Application is a practical and impressive portfolio project, 
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/6ec1b5dd-6e3f-4567-950c-46e9122f58bd)
+
 
